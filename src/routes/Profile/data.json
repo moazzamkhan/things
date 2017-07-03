@@ -1,0 +1,56 @@
+[
+  {
+    "property": "name",
+    "label": "name",
+    "value": "",
+    "type": "text",
+    "description": "Your full name",
+    "error": null,
+    "disabled": false
+  },
+  {
+    "property": "nickname",
+    "label": "nickname",
+    "value": "",
+    "type": "text",
+    "description": "Your nickname",
+    "error": null,
+    "disabled": false
+  },
+  {
+    "property": "date-of-birth",
+    "label": "Birthday",
+    "value": "",
+    "type": "date",
+    "description": "Your birthday",
+    "error": null,
+    "disabled": false
+  },
+  {
+    "property": "gender",
+    "label": "Gender",
+    "value": "",
+    "type": "text",
+    "description": "Your gender",
+    "error": null,
+    "disabled": false
+  },
+  {
+    "property": "company",
+    "label": "company",
+    "value": "",
+    "type": "text",
+    "description": "Where do you work?",
+    "error": null,
+    "disabled": false
+  },
+  {
+    "property": "job-title",
+    "label": "job title",
+    "value": "",
+    "type": "text",
+    "description": "Your job title",
+    "error": null,
+    "disabled": false
+  }
+]

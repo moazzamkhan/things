@@ -1,5 +1,4 @@
 @import 'base';
-@import '~bootstrap/scss/bootstrap.scss';
 
 // Some best-practice CSS that's useful for most apps
 // Just remove them if they're not what you want
@@ -9,6 +8,8 @@ html {
 
 html,
 body {
+  font-family: Roboto;
+  font-size: small;
   margin: 0;
   padding: 0;
   height: 100%;
