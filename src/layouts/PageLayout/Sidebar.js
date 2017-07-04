@@ -43,7 +43,7 @@ Sidebar.propTypes = {
 }
 
 Sidebar.contextTypes = {
-  router: React.PropTypes.object
+  router: PropTypes.object
 }
 
 export default withStyles(styleSheet)(Sidebar)

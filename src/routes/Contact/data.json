@@ -6,7 +6,7 @@
     "type": "text",
     "description": "Your email",
     "error": null,
-    "disabled": false
+    "readonly": false
   },
   {
     "property": "mobile",
@@ -15,7 +15,7 @@
     "type": "text",
     "description": "Your mobile phone number",
     "error": null,
-    "disabled": false,
+    "readonly": false,
     "multiple": true
   },
   {
@@ -25,7 +25,7 @@
     "type": "text",
     "description": "Where do you work?",
     "error": null,
-    "disabled": false
+    "readonly": false
   },
   {
     "property": "job-title",
@@ -34,6 +34,6 @@
     "type": "text",
     "description": "Your job title",
     "error": null,
-    "disabled": false
+    "readonly": false
   }
 ]
